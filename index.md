@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+# Stephanie O'Neill
+## Web Developer
 
-You can use the [editor on GitHub](https://github.com/soneill14/stephanie-oneill.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Stephanie O'Neill. I’m a web developer specializing in PHP in Minneapolis, MN. I’ve built sites using HTML, CSS, PHP, MySQL, Smarty, and Bootstrap. I graduated in mid-May 2018 with my Associate of Applied Science degree in web development from Riverland Community College.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you’re looking to hire, whether locally or remotely, please contact me.
 
 ### Markdown
 
